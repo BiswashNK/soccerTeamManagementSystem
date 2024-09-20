@@ -1,8 +1,6 @@
-**TeamsLeague**
+**TeamsLeague** 
 
-```
-```
-Overview
+- Overview
 
 The TeamsLeague project is a Java-based sports league management system. It reads team and game data from files and processes the results of games to update the league standings. Teams are ranked based on their performance in games (wins, losses, ties, goals scored/allowed). The project implements the quick sort algorithm to sort teams based on their points and other criteria, and displays teams eligible for promotion and relegation.
 Features
